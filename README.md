@@ -1,2 +1,2 @@
-# LeetHub-Solutions
+# LeetCode-Solutions
 Collection of LeetCode questions.
